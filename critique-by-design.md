@@ -61,6 +61,10 @@ In my redesign, I intend to prioritize the data over the artwork. Using the Visu
 
 
 ## Step three: Sketch a solution
+I used both Datawrapper and Tableau to create the two charts below. 
+I used a horizontal bar chart to orient text for legibility. The number values were moved to the right of the bars, so the names of roller coasters are easily read from the left side. I also changed the title so that the measurement value was clear and indicated what the data actually recorded: the largest drop in roller coasters. 
+I tried a horizontal lollipop chart to add some playfulness to the data, knowing that a younger audience would likely be interested in this information. 
+
 <img width="623" height="426" alt="Test1_BarChart_Datawrapper" src="https://github.com/user-attachments/assets/92acb423-1913-4e41-8123-968f78e3ea30" />
 <img width="1856" height="651" alt="The 13 Biggest Roller Coasters in the World-Tableau" src="https://github.com/user-attachments/assets/87b805de-450c-41a7-80cf-7d1b49b32e4f" />
 
