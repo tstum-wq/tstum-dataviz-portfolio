@@ -13,6 +13,16 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 *Source: [TripSavvy - Tallest Roller Coasters in the World](https://www.tripsavvy.com/tallest-roller-coasters-in-the-world-3226411)*
 
+I selected this visualization to critique because of its illustrative design. It initially presents an overall pleasing illustration that uses color and theme to mimic the fun nature of an amusement park. It seemed clear from the article that the content and presentation align with the target audience of teens or thrill-seekers. Plus, I have always loved riding roller coasters - the wilder, the better!
+
+
+This choice allowed me to reflect on the entire ethos of this design. For example, who was this visual for? Other questions included:
+Beyond general thrill-seekers, who is the specific intended audience?
+What specific narrative or trend does the data demonstrate? 
+Is the visualization declarative (stating a fact) or exploratory (inviting the user to find their own insights)?
+Is the approach primarily conceptual (metaphor-heavy) or data-driven (focused on precise values)? 
+Ultimately, what is the visualization attempting to communicate?
+
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
