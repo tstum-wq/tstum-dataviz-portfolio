@@ -81,7 +81,12 @@ Questions to ask (modify these for your own interviews):
 Results: 
 
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
+| Question | Interview 1 | Interview 2 |
+| :--- | :--- | :--- |
+| **Can you describe what this chart is telling you?** | [Response 1] | [Response 2] |
+| **Is there anything you find surprising or confusing?** | [Response 1] | [Response 2] |
+| **Who do you think is the intended audience?** | [Response 1] | [Response 2] |
+| **Is there anything you would change or do differently?** | [Response 1] | [Response 2] |
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
