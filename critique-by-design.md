@@ -26,6 +26,8 @@ Ultimately, what is the visualization attempting to communicate?
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
+![Untitled_Artwork 5](https://github.com/user-attachments/assets/1b2aca75-f5f4-4782-92a8-6626fd7fa70b)
+
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
