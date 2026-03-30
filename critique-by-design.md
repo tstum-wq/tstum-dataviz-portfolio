@@ -61,10 +61,10 @@ In my redesign, I intend to prioritize the data over the artwork. Using the Visu
 
 
 ## Step three: Sketch a solution
+<img width="623" height="426" alt="Test1_BarChart_Datawrapper" src="https://github.com/user-attachments/assets/92acb423-1913-4e41-8123-968f78e3ea30" />
+<img width="1856" height="651" alt="The 13 Biggest Roller Coasters in the World-Tableau" src="https://github.com/user-attachments/assets/87b805de-450c-41a7-80cf-7d1b49b32e4f" />
 
 ## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
 Questions to ask (modify these for your own interviews): 
 
@@ -80,10 +80,9 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
 | Question | Interview Group 1 | Interview Group 2 |
 | :--- | :--- | :--- |
-| **Can you describe what this <br> chart is telling you?** | Yes, it's about the 13 Biggest <br> Roller Coasters in the World | [Response 2] |
+| **Can you describe to me what this <br> is telling you?** | Yes, it's about the 13 Biggest <br> Roller Coasters in the World | [Response 2] |
 | **Is there anything you find <br> surprising or confusing?** | It says 'in the World' but <br> which countries are represented? <br> We'd like to know where they <br> are located. | [Response 2] |
 | **Who do you think is the <br> intended audience?** | We think it's teens, thrill-seekers, <br> and engineers. | [Response 2] |
 | **Is there anything you would <br> change or do differently?** | Use color to indicate coasters <br> not in the U.S. Maybe the ties <br> could be alphabetized. | [Response 2] |
