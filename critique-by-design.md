@@ -86,7 +86,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 | **Can you describe what this <br> chart is telling you?** | Yes, it's about the 13 Biggest <br> Roller Coasters in the World | [Response 2] |
 | **Is there anything you find <br> surprising or confusing?** | It says 'in the World' but <br> which countries are represented? <br> We'd like to know where they <br> are located. | [Response 2] |
 | **Who do you think is the <br> intended audience?** | We think it's teens, thrill-seekers, <br> and engineers. | [Response 2] |
-| **Is there anything you would <br> change or do differently?** | Use color to indicate coasters <br> not in the U.S. <br> Maybe the ties could be <br> alphabetized. | [Response 2] |
+| **Is there anything you would <br> change or do differently?** | Use color to indicate coasters <br> not in the U.S. Maybe the ties <br> could be alphabetized. | [Response 2] |
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
