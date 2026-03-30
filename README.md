@@ -11,20 +11,18 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. ** 
 
 # About me
-Hi!  I really like art.  And I like paintings.  So I guess you can say that I like data visualizations!
+Hi!  I'm a visual artist & entrepreneur.  I love telling a story with art or design visuals. I'm interested in data visualization to improve supported storytelling in my chosen field. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I'm interested in learning how to use the various visualization platforms, of course, but more importantly, how to think about using data visualization to support an idea or discover a solution.
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Learn Tableau and other supportive platforms to assist with data visualizations
+2. Understand the psychology involved in using data visualizations. 
+3. Discover the best practices for data visualization - from problem, to ideation, to solution.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- Color
+- Types
+- Fonts 
 
 # Portfolio
 
