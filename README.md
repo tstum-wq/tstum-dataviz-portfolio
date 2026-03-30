@@ -8,7 +8,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/tstum-wq/tstum-dataviz-portfolio/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. ** 
 
 # About me
 Hi!  I really like art.  And I like paintings.  So I guess you can say that I like data visualizations!
