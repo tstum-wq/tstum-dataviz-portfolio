@@ -83,10 +83,10 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 | Question | Interview Group 1 | Interview Group 2 |
 | :--- | :--- | :--- |
-| **Can you describe what this chart is telling you?** | Yes, it's about the 13 Biggest <br> Roller Coasters in the World | [Response 2] |
-| **Is there anything you find surprising or confusing?** | It says 'in the World' but <br> which countries are represented? <br> We'd like to know where <br> they are located. | [Response 2] |
-| **Who do you think is the intended audience?** | [Response 1] | [Response 2] |
-| **Is there anything you would change or do differently?** | [Response 1] | [Response 2] |
+| **Can you describe what this <br> chart is telling you?** | Yes, it's about the 13 Biggest <br> Roller Coasters in the World | [Response 2] |
+| **Is there anything you find <br> surprising or confusing?** | It says 'in the World' but <br> which countries are represented? <br> We'd like to know where <br> they are located. | [Response 2] |
+| **Who do you think is the <br> intended audience?** | [Response 1] | [Response 2] |
+| **Is there anything you would <br> change or do differently?** | [Response 1] | [Response 2] |
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
