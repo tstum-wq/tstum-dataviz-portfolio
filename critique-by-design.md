@@ -28,7 +28,27 @@ _Include link to the original data visualization (or screenshot - make sure to c
 ## Step two: the critique
 ![Untitled_Artwork 5](https://github.com/user-attachments/assets/1b2aca75-f5f4-4782-92a8-6626fd7fa70b)
 
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Usefulness: I'd give this a 5 out of 10 score. While the visualization successfully attracts its target demographic through niche content, the presentation is not fully optimized. Although it identifies the largest roller coaster drops, the viewer encounters excessive visual noise and a lack of clarity. While the underlying data is sound, the delivery hinders the user's ability to extract value efficiently.
+
+Completeness: The visualization is "complete" in terms of data density, yet this abundance creates a significant distraction. Much of the included information feels arbitrary; for instance, inconsistent color application creates more confusion than insight, detracting from the chart’s primary purpose.
+
+Perceptibility: While a bar chart is a logical choice for this data, the specific selection and orientation of the bars hinder a clear narrative. The piece functions more as a thematic illustration than a clear example of data storytelling. For example, while the coaster graphic slopes downward from left to right to mirror the rankings, it serves as a decorative element rather than a functional aid to data interpretation.
+
+Truthfulness: The visualization provides a generally accurate representation of operating roller coasters. Notably, the source article includes two coasters that are not yet fully constructed; excluding these from the visual was an appropriate editorial choice. However, the title is somewhat ambiguous, suggesting the "10 Tallest Roller Coasters" when the data actually focuses on the "Biggest Drop." The relationship between total height and drop height remains unclear to the viewer. 
+
+Intuitiveness: The chart lacks immediate clarity; deeper analysis reveals increasing discrepancies. The flow follows a standard left-to-right hierarchy, but the central illustration—featuring a large "hump"—contradicts the intended "high-to-low" visual logic. Furthermore, the text's vertical orientation makes reading difficult, and the numbering system uses a non-consistent color palette without a corresponding legend. 
+
+Aesthetics: The design is over-saturated with competing colors, shapes, and random assignments. These choices push the project into the realm of illustration rather than functional data visualization. Labeling is also redundant; the repetitive use of "FT. DROP" is unnecessary if the title is properly defined. Additionally, coasters with tied heights are implied rather than explicitly labeled. Alternating colors on the bars, with two side-by-side being the same color, is inconsistent and unnecessary. 
+
+Engagement: The visualization is likely effective for its primary audience of teenagers and thrill-seekers. The bright, stylized theme and "fun" aesthetic align well with the interests of a younger demographic. 
+
+Overall observations: My primary takeaway is that simplifying the design by removing distracting elements will clarify the data story. Currently, excessive color distribution, unnecessary illustrations, and awkward labeling are in direct conflict with an otherwise straightforward narrative. 
+
+Who is the primary audience for this tool? Younger thrill-seeker audiences. 
+Do you think this visualization is effective for reaching that audience? Moderate. It successfully reaches its audience through a colorful, high-energy aesthetic that highlights top-ranked coasters.
+
+Based on your critique, what do you think you'll try to focus on in your redesign? In my redesign, I intend to prioritize the data over the artwork. Using the Visual Vocabulary guide, I will explore more effective design options for ranked content, specifically focusing on bar charts or lollipop charts. I look forward to iterating on these concepts in Tableau and Datawrapper to create a cleaner, more intuitive user experience.
+
 
 ## Step three: Sketch a solution
 
