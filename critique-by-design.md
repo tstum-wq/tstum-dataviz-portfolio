@@ -23,6 +23,8 @@ This choice allowed me to reflect on the entire scope of this design.
 - What is the visualization attempting to communicate?
 
 ## Step two: the critique
+I began by marking up the visualization, which allows me to easily log and track elements I plan to improve. 
+
 ![Untitled_Artwork 5](https://github.com/user-attachments/assets/1b2aca75-f5f4-4782-92a8-6626fd7fa70b)
 
 ## Usefulness: 
