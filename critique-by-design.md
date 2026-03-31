@@ -65,7 +65,8 @@ I used both Datawrapper and Tableau to create the two charts below. <br> I used 
 
 <img width="623" height="426" alt="Test1_BarChart_Datawrapper" src="https://github.com/user-attachments/assets/92acb423-1913-4e41-8123-968f78e3ea30" />
 
-<img width="1856" height="651" alt="Test2_Lollipop_Tableau" src="https://github.com/user-attachments/assets/de9102f0-7357-4c8c-9f67-2f4b80ee61ad" />
+![Test2_Lollipop_Tableau](https://github.com/user-attachments/assets/52c59f57-b681-40dd-9ecf-5433134d3f32)
+
 
 ## Step four: Test the solution
 
