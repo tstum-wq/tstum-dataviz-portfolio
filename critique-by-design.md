@@ -85,15 +85,14 @@ Results:
 Synthesis: 
 
 Several concerns arose for this design, as well as for the others we were critiquing in the group. 
-We questioned and provided feedback as to how best to represent variables when we have many of them (sometimes less is more).
-What came up every time was identifying who our audience was and whether the story we wanted our data to tell. (Is the data or certain data relevant to use to tell the story? Maybe we should include data that we excluded to tell a better story, etc)
-Labeling came up as well, and how to do so more effectively and clearly, so our reader can register it quickly. This was relevant to this design because countries were omitted from the chart, which two team members questioned. This relates to our recognition of the importance of color in highlighting what we want to focus on. 
+We discussed how best to represent multiple variables in a chart. Which ones to include and which to omit.
+The group also discussed who the audience was and whether the data correlated with that audience. Identifying and including relevant data missing would add a layer of information to tell a better story. Labeling was discussed, and, interestingly, personal preferences differed regarding the font weight for the coaster names. The most significant discussion revolved around references to specific countries missing from the chart. The idea being that a viewer interested in this chart would also want to know where to go to experience these coasters. Color was discussed as a way to highlight this omission. 
 
-Based on the feedback, overall, the first round of designs was a vast improvement on the original. Clarity and simplicity were noted. The redesign will incorporate a color consideration for the countries represented. 
+Based on the feedback, overall, the first round of designs was considered a vast improvement on the original. Clarity and simplicity were noted. The redesign will incorporate a color consideration for the countries represented. 
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+_Include and describe your final solution here. It's also a good idea to summarize your overall thoughts on the process. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
 * [Chart Selection](https://makeovermonday.co.uk/) - Used to select the chart I analyzed.
