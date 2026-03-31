@@ -1,6 +1,6 @@
 | [home page](https://tstum-wq.github.io/tstum-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The 13 Biggest Roller Coaster Drops in the World - DataViz Analysis
+# How the World's Biggest Roller Coaster Drops Compare - DataViz Analysis
   
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
@@ -90,12 +90,21 @@ The group also discussed who the audience was and whether the data correlated wi
 Based on the feedback, overall, the first round of designs was considered a vast improvement on the original. The bar chart was preferred over the lollipop chart by all three interviewees. Clarity and simplicity were noted. The redesign will incorporate color considerations for the countries represented to see if that works! 
 
 ## Step five: build the solution
+I attempted several solutions and tested them with colleagues who were familiar with Data Visualization. 
 
 <img width="1240" height="906" alt="mjg4W-the-13-biggest-roller-coaster-drops-in-the-world-nbsp-" src="https://github.com/user-attachments/assets/77ed59a7-5e77-4fc2-8fd5-440ec6cc9705" />
 
-The final design adapts the horizontal bar chart to highlight the global locations of the world’s top 13 roller coasters. Following a positive critique of the initial framework, my focus shifted to refining the color palette. Color assignments were iterated to ensure a rational distribution, while font colors were kept consistent within categories for better legibility.
+This was an iterative design that adapted the horizontal bar chart to highlight the global locations of the world’s top 13 roller coasters using color. I used the previous chart setup, this time focusing on color. Color assignments were iterated to represent the countries that my reviewers wanted to see. 
 
-The resulting color-coded country legend introduces a playful, brighter quality suited to the subject matter, appealing to younger or adventurous audiences without distracting from the primary ranking data. While the original design did not prioritize geographic distribution, emphasizing these countries ultimately proved valuable in supporting the data's content.
+This meant I needed a color-coded country legend, but this felt a little clumsy, and I wasn't sure it was actually helping.  The design introduced a brighter quality suited to the subject matter, possibly appealing to younger or adventurous audiences without distracting from the primary ranking data. While the original design did not prioritize geographic distribution, the intent was to emphasize these countries. 
+
+After requesting feedback, the comment I received was: *the orange, purple, and red colors were a bit hard to view. The viewer's attention shifted from the data to the color.* This wasn't what I wanted! .....so I went back to the drawing board. 
+
+I played around with the color, considered the important information, and landed on this final design. I added the country names to the Y-axis labels, which removed the legend. Good! Then I thought about the title - was this telling the best story? I think saying we are *comparing* the rankings allowed me to remove distracting color. 
+
+In the end, I went back to the beginning and used one of my original chart designs, this time highlighting the top 2 roller coasters. With the addition of the country names, I felt this addressed the critique and brought the focus back to the ranking, not the countries. This exercise allowed me to work through design choices and check my inclinations against the best practices we are learning. 
+
+<img width="622" height="427" alt="Final_design_dataviz" src="https://github.com/user-attachments/assets/ac11de51-e2f5-4663-b6d0-c980b7d37672" />
 
 
 ## References
