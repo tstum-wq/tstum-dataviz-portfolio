@@ -104,7 +104,8 @@ I played around with the color, considered the important information, and landed
 
 In the end, I went back to the beginning and used one of my original chart designs, this time highlighting the top 2 roller coasters. With the addition of the country names, I felt this addressed the critique and brought the focus back to the ranking, not the countries. This exercise allowed me to work through design choices and check my inclinations against the best practices we are learning. 
 
-<img width="622" height="427" alt="Final_design_dataviz" src="https://github.com/user-attachments/assets/ac11de51-e2f5-4663-b6d0-c980b7d37672" />
+<img width="1240" height="846" alt="Final_Coaster_dataviz" src="https://github.com/user-attachments/assets/7d96101d-9035-4bf4-acee-ff584e37073e" />
+
 
 
 ## References
