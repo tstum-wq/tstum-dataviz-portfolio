@@ -15,15 +15,12 @@ While this template serves as a guide, make sure to reference the assignment wri
 
 I selected this visualization to critique because of its illustrative design. It initially presents an overall pleasing illustration that uses color and theme to mimic the fun nature of an amusement park. It seemed clear from the article that the content and presentation align with the target audience of teens or thrill-seekers. Plus, I have always loved riding roller coasters - the wilder, the better!
 
-
 This choice allowed me to reflect on the entire ethos of this design. For example, who was this visual for? Other questions included:
 Beyond general thrill-seekers, who is the specific intended audience?
 What specific narrative or trend does the data demonstrate? 
 Is the visualization declarative (stating a fact) or exploratory (inviting the user to find their own insights)?
 Is the approach primarily conceptual (metaphor-heavy) or data-driven (focused on precise values)? 
 Ultimately, what is the visualization attempting to communicate?
-
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
 ![Untitled_Artwork 5](https://github.com/user-attachments/assets/1b2aca75-f5f4-4782-92a8-6626fd7fa70b)
@@ -94,7 +91,10 @@ Based on the feedback, overall, the first round of designs was considered a vast
 
 <img width="1240" height="906" alt="mjg4W-the-13-biggest-roller-coaster-drops-in-the-world-nbsp-" src="https://github.com/user-attachments/assets/77ed59a7-5e77-4fc2-8fd5-440ec6cc9705" />
 
-_Include and describe your final solution here. It's also a good idea to summarize your overall thoughts on the process. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+The final design adapts the horizontal bar chart to highlight the global locations of the world’s top 13 roller coasters. Following a positive critique of the initial framework, my focus shifted to refining the color palette. Color assignments were iterated to ensure a rational distribution, while font colors were kept consistent within categories for better legibility.
+
+The resulting color-coded country legend introduces a playful, brighter quality suited to the subject matter, appealing to younger or adventurous audiences without distracting from the primary ranking data. While the original design did not prioritize geographic distribution, emphasizing these countries ultimately proved valuable in supporting the data's content.
+
 
 ## References
 * [Chart Selection](https://makeovermonday.co.uk/) - Used to select the chart I analyzed.
@@ -107,5 +107,5 @@ _Include and describe your final solution here. It's also a good idea to summari
 >   * Used **Chapter 4 ("How To Build A Chart")** for the design workflow.
 
 ## AI acknowledgements
-I used Google Gemini to tutor me in code related to specific functions within GitHub. 
+Google Gemini was employed to tutor me in code related to specific functions within GitHub. Grammarly was accessed for corrections in grammar and punctuation. 
 
