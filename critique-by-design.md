@@ -61,7 +61,7 @@ In my redesign, I intend to prioritize the data over the artwork. Using the Visu
 
 
 ## Step three: Sketch a solution
-I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I used a horizontal bar chart to orient text for legibility. The number values were moved to the right of the bars, so the names of roller coasters are easily read from the left side. I also changed the title so that the measurement value was clear and indicated what the data actually recorded: the largest drop in roller coasters. <br> I tried a horizontal lollipop chart to add some playfulness to the data, knowing that a younger audience would likely be interested in this information.
+I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I used a horizontal bar chart to orient text for legibility. The number values were moved to the right of the bars, and the names of roller coasters are easily read when placed to the left of the bars. I also changed the title so that the measurement value was clear and indicated what the data actually recorded: the largest drops (in feet) of the world's top 13 roller coasters. <br> I tried a horizontal lollipop chart to add some playfulness to the data, knowing that a younger audience would likely be interested in this information.
 
 ![initial_sketches](https://github.com/user-attachments/assets/9c065b9e-7d49-4d21-acd2-e17f6bae93b9)
  
@@ -88,7 +88,7 @@ Several concerns arose for this design, as well as for the others we were critiq
 We discussed how best to represent multiple variables in a chart. Which ones to include and which to omit.
 The group also discussed who the audience was and whether the data correlated with that audience. Identifying and including relevant data missing would add a layer of information to tell a better story. Labeling was discussed, and, interestingly, personal preferences differed regarding the font weight for the coaster names. The most significant discussion revolved around references to specific countries missing from the chart. The idea is that a viewer interested in this chart would also want to know where to ride these coasters. Color was discussed as a way to highlight this omission. 
 
-Based on the feedback, overall, the first round of designs was considered a vast improvement on the original. Clarity and simplicity were noted. The redesign will incorporate a color consideration for the countries represented. 
+Based on the feedback, overall, the first round of designs was considered a vast improvement on the original. The bar chart was preferred over the lollipop chart by all three interviewees. Clarity and simplicity were noted. The redesign will incorporate color considerations for the countries represented to see if that works! 
 
 ## Step five: build the solution
 
