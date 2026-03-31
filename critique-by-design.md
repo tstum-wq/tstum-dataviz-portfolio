@@ -8,7 +8,7 @@
 
 *Source: [TripSavvy - Tallest Roller Coasters in the World](https://www.tripsavvy.com/tallest-roller-coasters-in-the-world-3226411)*
 
-I selected this visualization to critique because of its illustrative design. It initially presents a pleasing illustration that uses color and theme to mimic the fun nature of an amusement park. On first glance, the visualization seemed to align with the article's content and target audience of teens or thrill-seekers. This chart appealed to me due to the intentional 'artistic' approach and the fact that I have always loved riding roller coasters - the wilder, the better!
+I chose to critique this visualization because of its thematic design. At first glance, the playful use of color and "amusement park" aesthetic seem to align with the article's target audience: thrill-seeking roller coaster enthusiasts. This chart appealed to me due to the intentional 'artistic' approach and the fact that I have always loved riding roller coasters - the wilder, the better!
 
 This selection allowed me to reflect on the entire scope of the design process. 
 - Who is the specific intended audience?
