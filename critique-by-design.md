@@ -96,13 +96,15 @@ I attempted several solutions and tested them with colleagues who were familiar 
 
 This was an iterative design that adapted the horizontal bar chart to highlight the global locations of the world’s top 13 roller coasters using color. I used the previous chart setup, this time focusing on color. Color assignments were iterated to represent the countries that my reviewers wanted to see. 
 
-This meant I needed a color-coded country legend, but this felt a little clumsy, and I wasn't sure it was actually helping.  The design introduced a brighter quality suited to the subject matter, possibly appealing to younger or adventurous audiences without distracting from the primary ranking data. While the original design did not prioritize geographic distribution, the intent was to emphasize these countries. 
+This meant I needed a color-coded country legend, but this felt a little clumsy, and I wasn't sure it was actually helping.  The design introduced a brighter quality suited to the subject matter, possibly appealing to younger or adventurous audiences, but it distracted from the primary ranking function. While the original design did not prioritize geographic distribution, the intent was to emphasize these countries. 
 
 After requesting feedback, the comment I received was: *the orange, purple, and red colors were a bit hard to view. The viewer's attention shifted from the data to the color.* This wasn't what I wanted! .....so I went back to the drawing board. 
 
 I played around with the color, considered the important information, and landed on this final design. I added the country names to the Y-axis labels, which removed the legend. Good! Then I thought about the title - was this telling the best story? I think saying we are *comparing* the rankings allowed me to remove distracting color. 
 
-In the end, I went back to the beginning and used one of my original chart designs, this time highlighting the top 2 roller coasters. With the addition of the country names, I felt this addressed the critique and brought the focus back to the ranking, not the countries. This exercise allowed me to work through design choices and check my inclinations against the best practices we are learning. 
+For my final design, I went back to the beginning and used one of my original chart designs, this time highlighting the top 2 roller coasters. With the addition of the country names, I felt this addressed the critique and brought the focus back to the ranking rather than the countries. I also thought I might not need to list the number of coasters being compared, so I changed the title. (I'm still not sure this was the best choice.) 
+
+This exercise allowed me to work through design choices and check my inclinations against the best practices we are learning. 
 
 <img width="1240" height="846" alt="Final_Coaster_dataviz" src="https://github.com/user-attachments/assets/7d96101d-9035-4bf4-acee-ff584e37073e" />
 
