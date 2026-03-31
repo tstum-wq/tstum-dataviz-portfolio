@@ -79,14 +79,14 @@ Results:
 | **Can you describe to me what this is telling you?** | Yes, it's about the 13 Biggest Roller Coasters in the World | 
 | **Is there anything you find surprising or confusing?** | It says 'in the World', but which countries are represented? <br> We'd like to know where they are located. | 
 | **Who do you think is the intended audience?** | We think it's teens, thrill-seekers, and engineers. | 
-| **Is there anything you would change or do differently?** | Use color to indicate coasters not in the U.S. Maybe the ties <br> could be alphabetized. Consider using a different color for <br> the first value.|
+| **Is there anything you would change or do differently?** | Use color to indicate coasters not in the U.S. Maybe the ties <br> could be alphabetized. We like the use of a different, brighter color to highlight the coaster ranked #1.|
 
 
 Synthesis: 
 
 Several concerns arose for this design, as well as for the others we were critiquing in the group. 
 We discussed how best to represent multiple variables in a chart. Which ones to include and which to omit.
-The group also discussed who the audience was and whether the data correlated with that audience. Identifying and including relevant data missing would add a layer of information to tell a better story. Labeling was discussed, and, interestingly, personal preferences differed regarding the font weight for the coaster names. The most significant discussion revolved around references to specific countries missing from the chart. The idea being that a viewer interested in this chart would also want to know where to go to experience these coasters. Color was discussed as a way to highlight this omission. 
+The group also discussed who the audience was and whether the data correlated with that audience. Identifying and including relevant data missing would add a layer of information to tell a better story. Labeling was discussed, and, interestingly, personal preferences differed regarding the font weight for the coaster names. The most significant discussion revolved around references to specific countries missing from the chart. The idea is that a viewer interested in this chart would also want to know where to ride these coasters. Color was discussed as a way to highlight this omission. 
 
 Based on the feedback, overall, the first round of designs was considered a vast improvement on the original. Clarity and simplicity were noted. The redesign will incorporate a color consideration for the countries represented. 
 
