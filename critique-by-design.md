@@ -61,8 +61,10 @@ In my redesign, I intend to prioritize the data over the artwork. Using the Visu
 
 
 ## Step three: Sketch a solution
-I used both Datawrapper and Tableau to create the two charts below. <br> I used a horizontal bar chart to orient text for legibility. The number values were moved to the right of the bars, so the names of roller coasters are easily read from the left side. I also changed the title so that the measurement value was clear and indicated what the data actually recorded: the largest drop in roller coasters. <br> I tried a horizontal lollipop chart to add some playfulness to the data, knowing that a younger audience would likely be interested in this information. 
+I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I used a horizontal bar chart to orient text for legibility. The number values were moved to the right of the bars, so the names of roller coasters are easily read from the left side. I also changed the title so that the measurement value was clear and indicated what the data actually recorded: the largest drop in roller coasters. <br> I tried a horizontal lollipop chart to add some playfulness to the data, knowing that a younger audience would likely be interested in this information.
 
+![initial_sketches](https://github.com/user-attachments/assets/9c065b9e-7d49-4d21-acd2-e17f6bae93b9)
+ 
 <img width="623" height="426" alt="Test1_BarChart_Datawrapper" src="https://github.com/user-attachments/assets/92acb423-1913-4e41-8123-968f78e3ea30" />
 
 ![Test2_Lollipop_Tableau](https://github.com/user-attachments/assets/52c59f57-b681-40dd-9ecf-5433134d3f32)
