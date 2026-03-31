@@ -59,7 +59,6 @@ Moderate. It successfully reaches its audience through a colorful, albeit busy, 
 
 In my redesign, I intend to prioritize the data over the artwork. Using the Visual Vocabulary guide, I will explore more effective design options for ranked content, specifically bar or lollipop charts. I look forward to iterating on these concepts in Tableau and Datawrapper to create a cleaner, more intuitive user experience. 
 
-[Visual-vocabulary (1).pdf](https://github.com/user-attachments/files/26366303/Visual-vocabulary.1.pdf)
 
 ## Step three: Sketch a solution
 I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I used a horizontal bar chart to orient text for legibility. The number values were moved to the right of the bars, and the names of roller coasters are easily read when placed to the left of the bars. I also changed the title so that the measurement value was clear and indicated what the data actually recorded: the largest drops (in feet) of the world's top 13 roller coasters. <br> I tried a horizontal lollipop chart to add some playfulness to the data, knowing that a younger audience would likely be interested in this information.
