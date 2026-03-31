@@ -70,18 +70,6 @@ I used both Datawrapper and Tableau to create the two charts below. <br> I used 
 
 ## Step four: Test the solution
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
 Results: 
 
 | Question | Interviewees - MSPPM student, MISM student, MSISPM student | 
@@ -91,11 +79,6 @@ Results:
 | **Who do you think is the intended audience?** | We think it's teens, thrill-seekers, and engineers. | 
 | **Is there anything you would change or do differently?** | Use color to indicate coasters not in the U.S. Maybe the ties <br> could be alphabetized. Consider using a different color for <br> the first value.|
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
 
 Synthesis: 
 
