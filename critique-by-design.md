@@ -86,10 +86,10 @@ Results:
 
 | Question | Interview Group 1 | Interview Group 2 |
 | :--- | :--- | :--- |
-| **Can you describe to me what this <br> is telling you?** | Yes, it's about the 13 Biggest <br> Roller Coasters in the World | [Response 2] |
-| **Is there anything you find <br> surprising or confusing?** | It says 'in the World' but <br> which countries are represented? <br> We'd like to know where they <br> are located. | [Response 2] |
-| **Who do you think is the <br> intended audience?** | We think it's teens, thrill-seekers, <br> and engineers. | [Response 2] |
-| **Is there anything you would <br> change or do differently?** | Use color to indicate coasters <br> not in the U.S. Maybe the ties <br> could be alphabetized. Consider using <br> a different color for the first <br> value.| [Response 2] |
+| **Can you describe to me what this <br> is telling you?** | Yes, it's about the 13 Biggest <br> Roller Coasters in the World | 
+| **Is there anything you find <br> surprising or confusing?** | It says 'in the World' but <br> which countries are represented? <br> We'd like to know where they <br> are located. | 
+| **Who do you think is the <br> intended audience?** | We think it's teens, thrill-seekers, <br> and engineers. | 
+| **Is there anything you would <br> change or do differently?** | Use color to indicate coasters <br> not in the U.S. Maybe the ties <br> could be alphabetized. Consider using <br> a different color for the first <br> value.|
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
