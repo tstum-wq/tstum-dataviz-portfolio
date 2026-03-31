@@ -91,6 +91,9 @@ The group also discussed who the audience was and whether the data correlated wi
 Based on the feedback, overall, the first round of designs was considered a vast improvement on the original. The bar chart was preferred over the lollipop chart by all three interviewees. Clarity and simplicity were noted. The redesign will incorporate color considerations for the countries represented to see if that works! 
 
 ## Step five: build the solution
+<img width="1240" height="906" alt="uZbik-the-13-biggest-roller-coaster-drops-in-the-world-" src="https://github.com/user-attachments/assets/be1686ff-2875-4d1a-9d4c-80b1785229eb" />
+
+<img width="1240" height="906" alt="mjg4W-the-13-biggest-roller-coaster-drops-in-the-world-nbsp-" src="https://github.com/user-attachments/assets/77ed59a7-5e77-4fc2-8fd5-440ec6cc9705" />
 
 _Include and describe your final solution here. It's also a good idea to summarize your overall thoughts on the process. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
