@@ -84,8 +84,8 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-| Question | Interview Group 1 |
-| :--- | :--- | 
+| Question | Interviewees - MSPPM student, MISM student, MSISPM student | 
+| :--- | :--- | :--- |
 | **Can you describe to me what this is telling you?** | Yes, it's about the 13 Biggest Roller Coasters in the World | 
 | **Is there anything you find surprising or confusing?** | It says 'in the World', but which countries are represented? <br> We'd like to know where they are located. | 
 | **Who do you think is the intended audience?** | We think it's teens, thrill-seekers, and engineers. | 
