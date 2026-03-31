@@ -15,12 +15,12 @@ While this template serves as a guide, make sure to reference the assignment wri
 
 I selected this visualization to critique because of its illustrative design. It initially presents an overall pleasing illustration that uses color and theme to mimic the fun nature of an amusement park. It seemed clear from the article that the content and presentation align with the target audience of teens or thrill-seekers. Plus, I have always loved riding roller coasters - the wilder, the better!
 
-This choice allowed me to reflect on the entire scope of this design. For example, who was this visual for? Other questions included:
-Beyond general thrill-seekers, who is the specific intended audience?
-What specific narrative or trend does the data demonstrate? 
-Is the visualization declarative (stating a fact) or exploratory (inviting the user to find their own insights)?
-Is the approach primarily conceptual (metaphor-heavy) or data-driven (focused on precise values)? 
-Ultimately, what is the visualization attempting to communicate?
+This choice allowed me to reflect on the entire scope of this design. 
+- Who is the specific intended audience?
+- What specific narrative or trend does the data demonstrate? 
+- Is the visualization declarative (stating a fact) or exploratory (inviting the user to find their own insights)?
+- Is the approach primarily conceptual (metaphor-heavy) or data-driven (focused on precise values)? 
+- What is the visualization attempting to communicate?
 
 ## Step two: the critique
 ![Untitled_Artwork 5](https://github.com/user-attachments/assets/1b2aca75-f5f4-4782-92a8-6626fd7fa70b)
@@ -58,7 +58,7 @@ In my redesign, I intend to prioritize the data over the artwork. Using the Visu
 
 
 ## Step three: Sketch a solution
-I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I used a horizontal bar chart to orient text for legibility. The number values were moved to the right of the bars, and the names of roller coasters are easily read when placed to the left of the bars. I also changed the title so that the measurement value was clear and indicated what the data actually recorded: the largest drops (in feet) of the world's top 13 roller coasters. <br> I tried a horizontal lollipop chart to add some playfulness to the data, knowing that a younger audience would likely be interested in this information.
+I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I selected a horizontal bar chart for several reasons: it best suits a data-driven ranking of roller coasters, and it allowed text to be horizontally oriented for legibility. The drop distance values were moved to the right of the bars, and the roller coaster names are easily read when placed to the left. The title was changed to include a clear measurement value, indicating what the data actually recorded: the largest drops (in feet) of the world's top 13 roller coasters. <br> A second iteration was a horizontal lollipop chart, to add some playfulness to the data, knowing that younger audiences would be interested in this analysis.
 
 ![initial_sketches](https://github.com/user-attachments/assets/9c065b9e-7d49-4d21-acd2-e17f6bae93b9)
  
