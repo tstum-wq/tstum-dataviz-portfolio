@@ -99,6 +99,10 @@ _Include and describe your final solution here. It's also a good idea to summari
 * [DataViz](https://www.datawrapper.de/) - Used to generate the data visualization chart 1.
 * [Tableau Desktop (v2023.2) – Used for generating the data visualization chart 2.
 * [Coolors.co](https://coolors.co) - Color palette generation.
+* [Visual Vocabulary (ft.com/vocabulary) - Used to help identify appropriate chart selections for the problem.
+* **Berinato, Scott (2016).** *Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations*. Harvard Business Review Press. 
+>   * Used **Chapter 3 ("Two Questions")** to define the chart's purpose.
+>   * Used **Chapter 4 ("How To Build A Chart")** for the design workflow.
 
 ## AI acknowledgements
 I used Google Gemini to tutor me in code related to specific functions within GitHub. 
