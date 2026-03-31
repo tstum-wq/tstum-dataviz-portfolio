@@ -65,7 +65,7 @@ I initially used sketching, then proceeded to both Datawrapper and Tableau to cr
 
 ![initial_sketches](https://github.com/user-attachments/assets/9c065b9e-7d49-4d21-acd2-e17f6bae93b9)
  
-<img width="623" height="426" alt="Test1_BarChart_Datawrapper" src="https://github.com/user-attachments/assets/92acb423-1913-4e41-8123-968f78e3ea30" />
+<img width="1240" height="846" alt="VJ7ua-the-13-biggest-roller-coaster-drops-in-the-world-" src="https://github.com/user-attachments/assets/1bc4db1b-e158-49c5-addb-9335411b95ec" />
 
 ![Test2_Lollipop_Tableau](https://github.com/user-attachments/assets/52c59f57-b681-40dd-9ecf-5433134d3f32)
 
