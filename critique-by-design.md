@@ -84,8 +84,8 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-| Question | Interview Group 1 | Interview Group 2 |
-| :--- | :--- | :--- |
+| Question | Interview Group 1 |
+| :--- | :--- | 
 | **Can you describe to me what this <br> is telling you?** | Yes, it's about the 13 Biggest <br> Roller Coasters in the World | 
 | **Is there anything you find <br> surprising or confusing?** | It says 'in the World' but <br> which countries are represented? <br> We'd like to know where they <br> are located. | 
 | **Who do you think is the <br> intended audience?** | We think it's teens, thrill-seekers, <br> and engineers. | 
