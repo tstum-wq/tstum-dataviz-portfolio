@@ -57,7 +57,7 @@ Younger thrill-seeker audiences.
 ## Do you think this visualization is effective for reaching that audience? 
 Moderate. It successfully reaches its audience through a colorful, albeit busy, pop-style theme that highlights top-ranked coasters.
 
-In my redesign, I intend to prioritize the data over the artwork. Using the [Click here to view the PDF report](Visual-vocabulary(1).pdf), I will explore more effective design options for ranked content, specifically bar or lollipop charts. I look forward to iterating on these concepts in Tableau and Datawrapper to create a cleaner, more intuitive user experience. 
+In my redesign, I intend to prioritize the data over the artwork. Using the Visual Vocabulary guide, I will explore more effective design options for ranked content, specifically bar or lollipop charts. I look forward to iterating on these concepts in Tableau and Datawrapper to create a cleaner, more intuitive user experience. 
 
 
 ## Step three: Sketch a solution
