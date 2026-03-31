@@ -89,7 +89,7 @@ I attempted several solutions and tested them with colleagues who were familiar 
 
 <img width="1240" height="906" alt="mjg4W-the-13-biggest-roller-coaster-drops-in-the-world-nbsp-" src="https://github.com/user-attachments/assets/77ed59a7-5e77-4fc2-8fd5-440ec6cc9705" />
 
-This was an iterative design that adapted the horizontal bar chart to highlight the global locations of the world’s top 13 roller coasters using color. I used the previous chart setup, this time focusing on color. Color assignments were iterated to represent the countries that my reviewers wanted to see. 
+This was an iterative design that adapted the horizontal bar chart to highlight the global locations of the world’s top 13 roller coasters using color. I used the previous chart setup, this time focusing on color. Color assignments were used to represent the countries that my reviewers suggested. 
 
 This meant I needed a color-coded country legend, but this felt a little clumsy, and I wasn't sure it was actually helping.  The design introduced a brighter quality suited to the subject matter, possibly appealing to younger or adventurous audiences, but it distracted from the primary ranking function. While the original design did not prioritize geographic distribution, the intent was to emphasize these countries. 
 
