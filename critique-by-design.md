@@ -1,11 +1,6 @@
 | [home page](https://tstum-wq.github.io/tstum-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # How the World's Biggest Roller Coaster Drops Compare - DataViz Analysis
-  
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
 
@@ -60,7 +55,7 @@ In my redesign, I intend to prioritize the data over the artwork. Using the Visu
 
 
 ## Step three: Sketch a solution
-I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I selected a horizontal bar chart for several reasons: it best suits a data-driven ranking of roller coasters, and it allowed text to be horizontally oriented for legibility. The drop distance values were moved to the right of the bars, and the roller coaster names are easily read when placed to the left. The title was changed to include a clear measurement value, indicating what the data actually recorded: the largest drops (in feet) of the world's top 13 roller coasters. <br> A second iteration was a horizontal lollipop chart, to add some playfulness to the data, knowing that younger audiences would be interested in this analysis.
+I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I selected a horizontal bar chart for several reasons: it best suits a data-driven ranking of roller coasters, and it allowed text to be horizontally oriented for legibility. The drop distance values were moved to the right of the bars, and the roller coaster names are easily read when placed to the left. The title was changed to include a clear measurement value, indicating what the data actually recorded: the largest drops (in feet) of the world's top 13 roller coasters. <br> A second iteration was a horizontal lollipop chart, to add some playfulness to the data, knowing that younger audiences would be interested in this analysis. I had toyed with color in my initial sketches but felt it was distracting on the lollipop chart, so I stayed with  one color for the chart. 
 
 ![initial_sketches](https://github.com/user-attachments/assets/9c065b9e-7d49-4d21-acd2-e17f6bae93b9)
  
