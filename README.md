@@ -31,12 +31,11 @@ You can keep this section for stuff from in-class demos or your other work, or r
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
 Check out my [Visualizing Government Debt](visualizing-government-debt)
-
-(For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension.) 
+This exercise allowed me to explore the Tableau interface by filtering specific data, using various chart styles, and customizing text, color, and labeling. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 This was a rewarding project in terms of honing design through process: [Critique By Design - Roller Coaster Drops](critique-by-design)
- 
+This exercise allowed me to delve deep into analyzing and critiquing data visualizations. This helped me grasp how making appropriate data visualization choices changes impact and meaning.  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
