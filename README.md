@@ -30,12 +30,10 @@ I'm interested in learning how to use the various visualization platforms, of co
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
-Check out my [Visualizing Government Debt](visualizing-government-debt)
-This exercise allowed me to explore the Tableau interface by filtering specific data, using various chart styles, and customizing text, color, and labeling. 
+Check out my [Visualizing Government Debt](visualizing-government-debt)<bf>This exercise allowed me to explore the Tableau interface by filtering specific data, using various chart styles, and customizing text, color, and labeling. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-This was a rewarding project in terms of honing design through process: [Critique By Design - Roller Coaster Drops](critique-by-design)
-This exercise allowed me to delve deep into analyzing and critiquing data visualizations. This helped me grasp how making appropriate data visualization choices changes impact and meaning.  
+This was a rewarding project in terms of honing design through process: [Critique By Design - Roller Coaster Drops](critique-by-design)<br>This exercise allowed me to delve deep into analyzing and critiquing data visualizations. This helped me grasp how making appropriate data visualization choices changes impact and meaning.  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
