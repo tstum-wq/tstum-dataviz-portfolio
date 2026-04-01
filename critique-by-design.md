@@ -117,5 +117,5 @@ This exercise allowed me to work through design choices and check my inclination
 >   * Used **Chapter 4 ("How To Build A Chart")** for the design workflow.
 
 ## AI acknowledgements
-Google Gemini was employed to tutor me in code related to specific functions within GitHub. Grammarly was accessed for corrections in grammar and punctuation. 
+Google Gemini was employed to tutor me in code related to specific functions within GitHub. Grammarly was accessed for grammar and punctuation. 
 
