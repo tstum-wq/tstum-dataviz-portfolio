@@ -55,7 +55,7 @@ In my redesign, I intend to prioritize the data over the artwork. Using the Visu
 
 
 ## Step three: Sketch a solution
-I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I selected a horizontal bar chart for several reasons: it best suits a data-driven ranking of roller coasters, and it allowed text to be horizontally oriented for legibility. The drop distance values were moved to the right of the bars, and the roller coaster names are easily read when placed to the left. The title was changed to include a clear measurement value, indicating what the data actually recorded: the largest drops (in feet) of the world's top 13 roller coasters. <br> A second iteration was a horizontal lollipop chart, to add some playfulness to the data, knowing that younger audiences would be interested in this analysis. I had toyed with color in my initial sketches but felt it was distracting on the lollipop chart, so I stayed with  one color for the chart. 
+I initially used sketching, then proceeded to both Datawrapper and Tableau to create the two charts below. <br> I selected a horizontal bar chart for several reasons: it best suits a data-driven ranking of roller coasters, and it allowed text to be horizontally oriented for legibility. The drop distance values were moved to the right of the bars, and the roller coaster names are easily read when placed to the left. The title was changed to include a clear measurement value, indicating what the data actually recorded: the largest drops (in feet) of the world's top 13 roller coasters. <br> A second iteration was a horizontal lollipop chart, to add some playfulness to the data, knowing that younger audiences would be interested in this analysis. I had toyed with color in my initial sketches, but felt it was distracting on the lollipop chart, so I stayed with  one color for the chart. 
 
 ![initial_sketches](https://github.com/user-attachments/assets/9c065b9e-7d49-4d21-acd2-e17f6bae93b9)
  
@@ -98,7 +98,7 @@ After requesting feedback, the comment I received was: *the orange, purple, and 
 ## Step six: build a solution
 I played around with the color, considered the important information, and landed on this final design. I added the country names to the Y-axis labels, which removed the legend. Good! Then I thought about the title - was this telling the best story? I think saying we are *comparing* the rankings allowed me to remove distracting color. 
 
-For my final design, I went back to the beginning and used one of my original chart designs, this time highlighting the top 2 roller coasters. With the addition of the country names, I felt this addressed the critique and brought the focus back to the ranking rather than the countries. I also thought I might not need to list the number of coasters being compared, so I changed the title. (I'm still not sure this was the best choice.) 
+For my final design, I went back to the beginning and used one of my original chart designs, this time highlighting the top 2 roller coasters. With the addition of the country names, I felt this addressed the critique and brought the focus back to the ranking rather than the countries. I also thought I might not need to list the number of coasters being compared, so I changed the title. Is it important to say '13' in the title? Maybe not. 
 
 This exercise allowed me to work through design choices and check my inclinations against the best practices we are learning. 
 
