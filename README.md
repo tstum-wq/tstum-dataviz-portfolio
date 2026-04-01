@@ -11,7 +11,8 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. 
 
 # About me
-Hi!  I'm a visual artist & entrepreneur.  I love telling stories through optical illusions. I'm interested in data visualization to improve supported storytelling in my chosen field. 
+Hi!  I'm a visual artist & entrepreneur.  I love telling stories through optical illusions. I'm interested in data visualization to improve supported storytelling in my chosen field. Here is an example of the work I create: 3D street art! 
+[Rope Bridge 3D](my-artwork)
 
 # What I hope to learn
 I'm interested in learning how to use the various visualization platforms, of course, but more importantly, how to think about using data visualization to support an idea or discover a solution.
