@@ -84,7 +84,7 @@ The group also discussed who the audience was and whether the data correlated wi
 
 Based on the feedback, overall, the first round of designs was considered a vast improvement on the original. The bar chart was preferred over the lollipop chart by all three interviewees. Clarity and simplicity were noted. The redesign will incorporate color considerations for the countries represented to see if that works! 
 
-## Step five: build the solution
+## Step five: try out some revisions
 I attempted several solutions and tested them with colleagues who were familiar with Data Visualization. 
 
 <img width="1240" height="906" alt="mjg4W-the-13-biggest-roller-coaster-drops-in-the-world-nbsp-" src="https://github.com/user-attachments/assets/77ed59a7-5e77-4fc2-8fd5-440ec6cc9705" />
@@ -95,6 +95,7 @@ This meant I needed a color-coded country legend, but this felt a little clumsy,
 
 After requesting feedback, the comment I received was: *the orange, purple, and red colors were a bit hard to view. The viewer's attention shifted from the data to the color.* This wasn't what I wanted! .....so I went back to the drawing board. 
 
+## Step six: build a solution
 I played around with the color, considered the important information, and landed on this final design. I added the country names to the Y-axis labels, which removed the legend. Good! Then I thought about the title - was this telling the best story? I think saying we are *comparing* the rankings allowed me to remove distracting color. 
 
 For my final design, I went back to the beginning and used one of my original chart designs, this time highlighting the top 2 roller coasters. With the addition of the country names, I felt this addressed the critique and brought the focus back to the ranking rather than the countries. I also thought I might not need to list the number of coasters being compared, so I changed the title. (I'm still not sure this was the best choice.) 
